@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = juguerreiro123@gmail.com
+	name = Julia Guerreiro
